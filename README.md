@@ -14,6 +14,9 @@
 poetry shell
 
 # install packages
+poetry install
+
+# add package
 poetry add package-name
 
 # run
