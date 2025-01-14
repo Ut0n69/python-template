@@ -1,4 +1,4 @@
-from python_project_template.modules.add import add
+from add import add
 
 
 def test_add():

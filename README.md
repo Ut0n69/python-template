@@ -17,7 +17,10 @@ poetry shell
 poetry add package-name
 
 # run
-python -m python_project_template
+make run
+
+# dev
+make dev
 
 # lint
 poetry run flake8
